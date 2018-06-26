@@ -5,4 +5,5 @@ Customers come in to the store, have sessions/meetings with a personal stylist, 
 ![alt text](https://github.com/FalconMadhab/ecommerce_data_analysis/blob/master/Figure_2.png)
 ![alt text](https://github.com/FalconMadhab/ecommerce_data_analysis/blob/master/Figure_3.png)
 ![alt text](https://github.com/FalconMadhab/ecommerce_data_analysis/blob/master/Figure_4.png)
+![alt text](https://github.com/FalconMadhab/ecommerce_data_analysis/blob/master/Figure_5.png)
 
